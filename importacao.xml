@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<linhasLog>
+    <contadores>
+        <totAVISOS>0</totAVISOS>
+        <totBENEFADD>0</totBENEFADD>
+        <totBENEFCONS>0</totBENEFCONS>
+        <totBENEFREJ>0</totBENEFREJ>
+        <totBENEFSUBST>0</totBENEFSUBST>
+        <totBRPDE>0</totBRPDE>
+        <totCAMPOSREJ>0</totCAMPOSREJ>
+        <totDTPSE>0</totDTPSE>
+        <totERROS>0</totERROS>
+        <totFCI>0</totFCI>
+        <totIMUNEISENTO>0</totIMUNEISENTO>
+        <totOPSE>0</totOPSE>
+        <totPROCESTADUAL>0</totPROCESTADUAL>
+        <totPROCFEDERAL>0</totPROCFEDERAL>
+        <totPROCTRAB>0</totPROCTRAB>
+        <totRDTPSE>0</totRDTPSE>
+        <totREGISTROSREJ>0</totREGISTROSREJ>
+        <totRRADEC>0</totRRADEC>
+        <totRRAPROC>0</totRRAPROC>
+        <totRTPSE>0</totRTPSE>
+        <totSCP>0</totSCP>
+        <totTPSE>0</totTPSE>
+    </contadores>
+</linhasLog>
